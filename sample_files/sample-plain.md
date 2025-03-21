@@ -1,0 +1,11 @@
+Hello, World!
+
+This is a sample text file to demonstrate the Caesar cipher implementation.
+It contains UPPERCASE and lowercase letters, as well as numbers (1234567890) 
+and special characters (!@#$%^&*).
+
+The quick brown fox jumps over the lazy dog.
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+End of sample file.
